@@ -3,7 +3,7 @@
 **Author:** Anand Trivedi (Independent Researcher)  
 **Paper:** [arXiv link coming soon]  
 **Contact:** trivedi.anand029@gmail.com
-
+https://doi.org/10.5281/zenodo.18767213
 ---
 
 ## Overview

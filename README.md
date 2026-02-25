@@ -3,8 +3,12 @@
 **Author:** Anand Trivedi (Independent Researcher)  
 **Paper:** [arXiv link coming soon]  
 **Contact:** trivedi.anand029@gmail.com
-##
+# SCRIBE: Sequential Compositional Reasoning with Iterative Belief Encoding
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14925725.svg)](https://doi.org/10.5281/zenodo.14925725)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+[cite_start]Official implementation of SCRIBE, a 1.1M parameter architecture designed for multi-hop reasoning.
 ---
 
 ## Overview
